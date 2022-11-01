@@ -5,7 +5,7 @@
 
 
 ### About me
-I’m Developer, Designer and Creative.
+I’m Developer, Instructor, Designer and Creative.
 
 - [Blog](https://medium.com/@danilocaetano/) ✍🏼 - I'm write about many things.
 - [Website](https://danilocaetano.com.br/) 💻 - Working on it.
